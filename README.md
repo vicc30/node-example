@@ -3,6 +3,12 @@
 This example on how NodeJS Node Modules works.
 
 1. It examples on how to use a closure functionality to set a callback function to async call of rectangle.js
+2. This function solves the area and the perimeter of given l and b
+
+## Scripts
+
+1. run npm start.
+
 
 # Credits
 
